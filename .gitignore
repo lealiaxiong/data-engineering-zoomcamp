@@ -1,6 +1,7 @@
 data/
 *.ipynb
 google-cloud-sdk/
+secrets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
