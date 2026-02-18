@@ -80,3 +80,5 @@ Create a staging model for the **For-Hire Vehicle (FHV)** trip data for 2019.
    - Rename fields to match your project's naming conventions (e.g., `PUlocationID` → `pickup_location_id`)
 
 What is the count of records in `stg_fhv_tripdata`?
+
+`43244693`
